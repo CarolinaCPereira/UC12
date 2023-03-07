@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\bin\Debug\net6.0\T16CodBackEnd.exe
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\bin\Debug\net6.0\T16CodBackEnd.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\bin\Debug\net6.0\T16CodBackEnd.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\bin\Debug\net6.0\T16CodBackEnd.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\bin\Debug\net6.0\T16CodBackEnd.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\refint\T16CodBackEnd.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\T16CodBackEnd.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16pfs\T16CodBackEnd\obj\Debug\net6.0\ref\T16CodBackEnd.dll
